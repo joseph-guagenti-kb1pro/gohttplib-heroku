@@ -1,0 +1,6 @@
+{
+  "name": "gohttplib python example",
+  "description": "Go HTTP server calling a Python handler",
+  "repository": "https://github.com/shazow/gohttplib",
+  "keywords": ["go", "python", "gohttplib"]
+}
